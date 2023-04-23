@@ -1,4 +1,4 @@
-Let's see if I remeber how this works.
+Let's see if I remember how this works.
 Also, VSCode is awesome so far!
 I could use this file to keep practicing the git commands along with some useful 
 shortcuts for VSCode.
@@ -19,6 +19,6 @@ VSCode shortcuts :
     CTRL+"`" : open terminal / go to editor
 
 This should be very useful!
-p.s. I have also changed my keyboard layout to UK standar QUERTY just to get more
+p.s. I have also changed my keyboard layout to UK standard QWERTY just to get more
 used to having all the useful keys available at all times.
 
