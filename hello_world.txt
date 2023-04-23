@@ -1,2 +1,25 @@
 Let's see if I remeber how this works.
 Also, VSCode is awesome so far!
+I could use this file to keep practicing the git commands along with some useful 
+shortcuts for VSCode.
+
+GIT commands : 
+23.04.23
+    git log
+    git add <file_name>
+    git commit
+    git push (gotta check this one again)
+23.04.23 - second
+    git commit -m "Comment" : to comment the commit on Git/GitHub
+    
+VSCode shortcuts :
+23.04.23
+    code <file_name> (or just code to open VSCode)
+    CTRL+"+" : open new Bash
+    CTRL+"`" : open terminal / go to editor
+
+
+This should be very useful!
+p.s. I have also changed my keyboard layout to UK standar QUERTY just to get more
+used to having all the useful keys available at all times.
+
