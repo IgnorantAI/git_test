@@ -18,7 +18,6 @@ VSCode shortcuts :
     CTRL+"+" : open new Bash
     CTRL+"`" : open terminal / go to editor
 
-
 This should be very useful!
 p.s. I have also changed my keyboard layout to UK standar QUERTY just to get more
 used to having all the useful keys available at all times.
